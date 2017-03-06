@@ -1,0 +1,20 @@
+{
+  "name": "chart-d3",
+  "main": "./lib/chart-d3",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "chart-d3:toggle"
+  },
+  "repository": "https://github.com/atom/chart-d3",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "echarts":"^3.2.3"
+  }
+}
